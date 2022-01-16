@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Daniel-bee/Daniel-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Hi there 👋, Hi 👋, I'm Daniel Biru
 #### Software Engineer 
 ![Software Engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -24,6 +17,12 @@ Skills: C/ Python / JS / HTML / CSS
 [![trophy](https://github-profile-trophy.vercel.app/?username=Daniel-bee)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-bee&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Daniel-bee)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-bee)  
+
+![Profile views](https://gpvc.arturio.dev/Daniel-bee)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Daniel-bee)  
 
