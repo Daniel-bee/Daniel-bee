@@ -1,6 +1,4 @@
 Hi 👋, I'm Daniel Biru
-#### Software Engineer 
-![Software Engineer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Student @ ALX + Holberton 
 
