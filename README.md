@@ -1,4 +1,4 @@
 ### Hi there 👋, I'm Daniel Biru
 
-- 🌱 I’m Back-End developer
-- 📫 How to reach me: daniel123_86@live.com 
+- 🌱 I’m Full Stack developer
+- 📫 How to reach me: dbiru49@gmail.com
